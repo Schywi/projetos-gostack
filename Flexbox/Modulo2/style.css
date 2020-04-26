@@ -1,0 +1,25 @@
+* { 
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: #e6ecf0 ; 
+  font-family: "Helvetica Neue", "Helvetica" , Arial , sans-serif ;
+  text-rendering: optimizeLegibility !important; 
+  -webkit-font-smoothing: antialiased !important; 
+}
+
+header#main-header { 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  /* o css abaixo e para me ajudar a enchergar as alterações do de cima*/
+  width: 100%; 
+  height: 34px;
+  background-color: white;
+}
+
